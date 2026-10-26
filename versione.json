@@ -1,0 +1,8 @@
+{
+ "fw": "e324126",
+ "data": "2026-10-24 10:37",
+ "url": "https://raw.githubusercontent.com/RicAnn/SmartWatch_ESP32-aggiornamenti/main/firmware/orologio-e324126-firmato.bin",
+ "size": 2092336,
+ "sha": "d0b6078c528e84e3b27216939fef803728fa1190918e259f4cb5a7c74fa32571",
+ "note": "Firma dei firmware, avviso degli aggiornamenti, flash QIO, piccole correzioni"
+}
